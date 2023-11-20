@@ -1,0 +1,10 @@
+.navs{
+    background-color: aqua;
+    color:black
+}
+.nav-item{
+    color:black
+}
+.nav-item:hover{
+    background-color: skyblue
+}
